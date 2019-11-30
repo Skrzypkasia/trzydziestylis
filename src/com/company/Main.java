@@ -6,7 +6,7 @@ public class Main {
 	// write your code here
 
         System.out.println("lolo");
-
+        System.out.println("to bedzie sobie wizytówka");
 
     }
 }
